@@ -42,7 +42,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #3498db;
+  background: #FFf200;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -156,12 +156,12 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #3498db;
+  color: #F7803A;
 }
 
 .navbar .getstarted,
 .navbar .getstarted:focus {
-  background: #3498db;
+  background: #FFCC33;
   padding: 8px 25px;
   margin-left: 30px;
   border-radius: 50px;
@@ -718,7 +718,7 @@ section {
 }
 
 .services .icon-box:hover::before {
-  background: #3498db;
+  background: #FFCC33;
   right: 0;
   top: 0;
   width: 100%;
@@ -734,7 +734,7 @@ section {
   border-radius: 50%;
   width: 60px;
   height: 60px;
-  background: #3498db;
+  background: #F7803A;
   transition: all 0.3s ease-in-out;
 }
 
