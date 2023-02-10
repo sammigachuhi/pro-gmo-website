@@ -475,7 +475,7 @@ section {
 }
 
 .section-bg {
-  background-color: #f7fbfe;
+  background-color: #f8de7e; /*#f7fbfe*/
 }
 
 .section-title {
@@ -516,9 +516,10 @@ section {
 # Clients
 --------------------------------------------------------------*/
 .clients {
-  background: #f3f9fd;
+  background: #f8de7e; /*#f3f9fd*/
   padding: 10px 0;
   text-align: center;
+  
 }
 
 .clients .col-lg-2 {
@@ -709,7 +710,7 @@ section {
 .services .icon-box::before {
   content: "";
   position: absolute;
-  background: #e1f0fa;
+  background: #FFCC33; /*#e1f0fa*/
   right: -60px;
   top: -40px;
   width: 100px;
@@ -846,7 +847,7 @@ section {
   display: flex;
   align-items: center;
   padding: 20px;
-  background: #f6f6f6;
+  background: #ffffe0; /*#f6f6f6*/
   transition: ease-in-out 0.3s;
 }
 
@@ -874,7 +875,7 @@ section {
 }
 
 .features .icon-box:hover {
-  background: #eef7fc;
+  background: #FFCC33; /*#eef7fc*/
 }
 
 /*--------------------------------------------------------------
@@ -896,7 +897,7 @@ section {
   min-height: 200px;
   box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.08);
   position: relative;
-  background: #fff;
+  background: #fff; /*#fff*/
 }
 
 .testimonials .testimonial-item .testimonial-img {
@@ -954,11 +955,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #3498db;
+  border: 1px solid #FFCC33;
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #3498db;
+  background-color: #FFCC33;
 }
 
 @media (max-width: 767px) {
@@ -1013,7 +1014,7 @@ section {
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
   color: #fff;
-  background: #3498db;
+  background: #FFCC33;
 }
 
 .portfolio #portfolio-flters li:last-child {
